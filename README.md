@@ -8,7 +8,7 @@ This is my personal portfolio website — AlgoQuest — where I showcase my proj
 
 ### 🖥️ Live Demo
 
-[👉 Visit My Portfolio ]()
+👉 [Visit My Portfolio ](https://ayushjainsparsh-algoquest.onrender.com/)
 
 ---
 
@@ -49,7 +49,7 @@ This is my personal portfolio website — AlgoQuest — where I showcase my proj
 
 ### 🤝 Connect with Me
 
-- [💼 LinkedIn](https://linkedin.com/in/ayushjainsparsh)
+- 💼  [LinkedIn](https://linkedin.com/in/ayushjainsparsh)
 
 ---
 
